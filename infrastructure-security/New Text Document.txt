@@ -1,0 +1,38 @@
+\# Trivy Security Scanning Lab
+
+
+
+\## Objective
+
+
+
+Use Trivy in a lab or training environment to scan test software, configuration, or container-related materials for security issues.
+
+
+
+\## Environment
+
+
+
+\- Personal lab or training environment
+
+\- Test projects and authorized materials only
+
+
+
+\## Tool Used
+
+
+
+\- Trivy
+
+
+
+\## What I Practiced
+
+
+
+\- Running a security scan with Trivy
+
+\- Reviewing reported vulnerabilities and misconfig
+
