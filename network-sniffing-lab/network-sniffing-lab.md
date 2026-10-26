@@ -46,10 +46,14 @@ I completed lab exercises involving:
 
 Wireshark, Nmap NSE, `macof`, Yersinia, TCP streams, CAM tables, ARP, DHCP, DNS, and VLANs.
 
+## Practical Lab Evidence
+
+Screenshots and notes will be added as individual exercises are documented.
+
+For each exercise, I will record the objective, procedure, observations, evidence, and lessons learned.
 
 
 \## Responsible practice
-
 
 
 These notes describe educational work in an authorized lab. Only capture traffic or test systems when you own them or have permission. This repository records course learning and does not claim professional assessment experience.
